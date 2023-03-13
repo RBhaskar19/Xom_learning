@@ -40,19 +40,3 @@ It has 2 application profiles, one for development and one for production. The d
 The web application is hosted in [Heroku](https://www.heroku.com/), while the MySql database is hosted in a [AWS RDS](https://aws.amazon.com/rds/) instance.
 
 ---
-
-## Contact
-
-Reach out to me at:
-
-- My personal page : [donnatto.com](https://donnatto.com)
-- My Blog : [blog.donnatto.com](https://blog.donnatto.com)
-- LinkedIn : [linkedin.com/in/donnatto](https://linkedin.com/in/donnatto)
-- Instagram : [@donnatto_](https://instagram.com/donnatto_)
-- Email : [contact@donnatto.com](mailto:contact@donnatto.com)
-
----
-
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
